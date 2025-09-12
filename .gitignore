@@ -1,2 +1,5 @@
-node_modules
-package-lock.json
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+dist/
